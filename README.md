@@ -1,8 +1,9 @@
 
 
-# Database_ClanAdventures
+# Database for ClanAdventures
 
-Database designed and created using MySQL to hold travel data for multiple families.
+Database designed and created using MySQL to hold travel data for multiple families. This repositry contains the exported database (DataSQL_DB_SuryaRamesh.sql) that can be downloaded and eight scripts(ClanAdventures_Script*_*) created to demo the functionality.
+
 
 ## Introduction
 
